@@ -24,10 +24,9 @@ For example:
 
 
 ## Requirements
-Fork and extend this project to answer the questions in part 1 & 2.
 The project consists of an express route in `api.js` and a react client in `client.js`.
 
-1. Clone code to your own github account.
+1. Clone code to your own github account  to answer the questions in part 1 & 2.
 2. Use `src/api.js` to build an api that can process robot instructions and return an answer.
 3. Use `src/client.js` to build a front end that can send instructions to the api and render the response.
 4. Let us know when you are done and send a link to your repository.
